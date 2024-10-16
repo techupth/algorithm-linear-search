@@ -1,5 +1,5 @@
 /* 
-ให้เขียน Function ที่ชื่อว่า findAndShowProductDetail ซึ่งมีคุณสมบัติต่อไปนี้
+ให้เขียน Function ที่ชื่อว่า findIfProductsAvailable ซึ่งมีคุณสมบัติต่อไปนี้
     - รับ Parameter 3 ตัวคือ products ,targetProduct และ targetQuantity
         1. products เป็น Array ของ Object ที่บรรจุรายชื่อสินค้า โดย Object แต่ละอันจะมี Key 3 ตัวได้แก่ name , quantity และ zone
         2. targetProduct เป็น String ที่บรรจุชื่อสินค้าที่ต้องการค้นหา
